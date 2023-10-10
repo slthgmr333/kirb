@@ -1,0 +1,5 @@
+name: "Kirby Mirror (GBA)",
+        link: "https://www.retrogames.onl/gba/kirby-mirror-gba.html",
+        image: "/images/icons/kirby.webp",
+        categories: ["all"],
+        error: false
